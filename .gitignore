@@ -1,0 +1,51 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build output
+dist/
+.vite/
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+
+# System files
+.browser_data_dir/
+.cache/
+.npm/
+.nvm/
+.pki/
+.secrets/
+.logs/
+.local/
+.config/
+Downloads/
+upload/
+sandbox.txt
+.user_env
+.bash_logout
+.bashrc
+.profile
+.zshrc
+.gitconfig
+
+# Archives
+*.zip
